@@ -1,12 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=200&section=header&text=Rao%20Ali%20Hassan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Educator&descAlignY=58&descSize=18" alt="Rao Ali Hassan" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MaximumCell">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=640&lines=I+build+AI+products+end+to+end+%E2%9A%A1;LLM+agents+%C2%B7+RAG+%C2%B7+MCP+tools;Next.js+%2B+Supabase+full-stack+apps;Claude+Code+plugins+%26+automations;Technical+Lead+%40+Aaghaz+AI" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img src="./assets/hero-dark.svg" width="100%" alt="Terminal: whoami → Rao Ali Hassan, AI Engineer & Full-Stack Developer, Lahore" />
+  </picture>
 </p>
 
 <p align="center">
@@ -40,59 +38,15 @@ const ali = {
 
 ### 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚡ [Thunder](https://github.com/MaximumCell/thunder)
-Conversational AI studio for video & image generation. A Gemma 4 agent refines your brief, then BytePlus Seedance / Seedream render it on an infinite canvas.<br/>
-<sub>Next.js 16 · Supabase + RLS · Gemma 4 · Seedance 2.5 · Seedream 4.5 · Cloudinary</sub><br/>
-[![Live](https://img.shields.io/badge/Live-thunder-7AA2F7?style=flat-square&logo=vercel)](https://thunder-nine-olive.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎬 [Claude Code Video-Editing Plugin](https://github.com/MaximumCell/Claude-editing-Skill)
-A Claude Code skill that auto-edits YouTube recordings with Remotion: syncs audio, cuts silences & retakes, adds motion graphics, B-roll and SFX, then renders. Installed by a team via a plugin marketplace.<br/>
-<sub>Claude Code · Remotion · Node.js · ffmpeg</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔍 [Sherlock](https://github.com/MaximumCell/sherlock)
-OSINT investigation tool. Deterministic collectors feed rule-based, confidence-scored correlations with human review; a Gemma 4 agent assists per case. Ethics guardrails built in.<br/>
-<sub>FastAPI · Next.js 16 · Supabase · Gemma 4</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧪 [PhysicsLab](https://github.com/MaximumCell/My-FYP) · FYP
-Physics learning platform: Gemini tutor with Qdrant memory, real-time 2D/3D simulations, and an ML lab with live training.<br/>
-<sub>Next.js · Flask · TensorFlow · Gemini · Qdrant · Docker</sub><br/>
-[![Live](https://img.shields.io/badge/Live-physicslab-7AA2F7?style=flat-square&logo=vercel)](https://physics-lab-six.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🗂️ [CreatorSuit](https://github.com/MaximumCell/Creator_Suit)
-Internal productivity tool used by the Aaghaz AI team.<br/>
-<sub>Next.js 16 · Supabase Auth + RLS · Server Actions</sub><br/>
-[![Live](https://img.shields.io/badge/Live-creatorsuit-7AA2F7?style=flat-square&logo=vercel)](https://creator-suit.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📄 [PDF AI](https://github.com/MaximumCell/pdf-ai)
-Chat with your PDFs: chunking, embeddings and vector search with streaming answers.<br/>
-<sub>Next.js · LangChain · Gemini · MongoDB Atlas Vector Search</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://thunder-nine-olive.vercel.app"><img src="./assets/card-thunder.svg" width="49%" alt="Thunder" /></a>
+  <a href="https://github.com/MaximumCell/Claude-editing-Skill"><img src="./assets/card-claude-video.svg" width="49%" alt="Claude Code Video Editor" /></a>
+  <a href="https://github.com/MaximumCell/sherlock"><img src="./assets/card-sherlock.svg" width="49%" alt="Sherlock" /></a>
+  <a href="https://physics-lab-six.vercel.app"><img src="./assets/card-physicslab.svg" width="49%" alt="PhysicsLab" /></a>
+  <a href="https://creator-suit.vercel.app"><img src="./assets/card-creatorsuit.svg" width="49%" alt="CreatorSuit" /></a>
+  <a href="https://github.com/MaximumCell/pdf-ai"><img src="./assets/card-pdf-ai.svg" width="49%" alt="PDF AI" /></a>
+</p>
+<p align="center"><sub>Click a card to open the live app or repo · <a href="https://github.com/MaximumCell/thunder">thunder</a> · <a href="https://github.com/MaximumCell/My-FYP">physicslab</a> · <a href="https://github.com/MaximumCell/Creator_Suit">creatorsuit</a> repos</sub></p>
 
 <details>
 <summary><b>More projects</b></summary>
@@ -163,7 +117,4 @@ Chat with your PDFs: chunking, embeddings and vector search with streaming answe
   </picture>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7768E,50:BB9AF7,100:7AA2F7&height=110&section=footer" alt="" />
-</p>
+<p align="center"><sub>Built with Claude Code · artwork generated by <a href="./scripts/build_assets.py">scripts/build_assets.py</a></sub></p>

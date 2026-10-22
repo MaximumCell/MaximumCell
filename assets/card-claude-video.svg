@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="Claude Code Video Editor">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0" stop-color="#f7768e"/><stop offset="1" stop-color="#ff9e64"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.15" cy="0.1" r="0.9"><stop offset="0" stop-color="#f7768e" stop-opacity="0.22"/><stop offset="1" stop-color="#f7768e" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1.5" y="1.5" width="417" height="207" rx="16" fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
+<rect x="1.5" y="1.5" width="417" height="207" rx="16" fill="url(#glow)"/>
+<text x="22" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24">🎬</text>
+<text x="58" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">Claude Code Video Editor</text>
+
+<text x="22" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">Claude Code plugin that auto-edits YouTube</text><text x="22" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">recordings: cuts retakes, adds B-roll &amp; motion</text><text x="22" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa4b2">graphics, renders with Remotion.</text>
+<rect x="22" y="164" width="97" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="31" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#c9d1d9">Claude Code</text><rect x="127.2" y="164" width="76" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="136.2" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#c9d1d9">Remotion</text><rect x="210.8" y="164" width="68" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="219.8" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#c9d1d9">Node.js</text><rect x="287.20000000000005" y="164" width="61" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12"/><text x="296.20000000000005" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#c9d1d9">ffmpeg</text>
+</svg>
