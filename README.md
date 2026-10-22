@@ -6,7 +6,7 @@
 
 I'm **Rao Ali Hassan**, a developer from **Lahore, Pakistan**. I studied Physics at COMSATS, fell in love with building software along the way, and now spend my days making things with AI — and showing other people how to make them too.
 
-Right now I'm **Technical Lead at [Aaghaz AI](https://aaghaz.ai)**, where I lead a small team of editors and designers, make YouTube videos and courses about AI tools, work with AI brands on sponsored videos, and host a podcast with founders and tech leaders from Pakistan's startup scene.
+Right now I'm **Technical Lead at [Aaghaz AI](https://aaghaz.ai)**, where I lead a small team of editors and designers, make YouTube videos and courses about AI tools and work with AI brands on sponsored videos.
 
 What I enjoy most is the full journey: a messy idea → a working prototype → something real people actually use.
 

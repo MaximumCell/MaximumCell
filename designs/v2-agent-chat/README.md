@@ -33,7 +33,6 @@ role: Technical Lead @ Aaghaz AI        # AI-education YouTube brand
 responsibilities:
   - build AI products end to end — LLM agents, RAG pipelines, MCP tools
   - lead a content team and sponsored campaigns with AI brands
-  - host a podcast with Pakistan's founders and tech leaders
 teaches:
   - 15-hour Claude course
   - 15-hour vibe-coding course

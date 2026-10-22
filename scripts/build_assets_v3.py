@@ -72,7 +72,7 @@ def hero():
 </g>
 ''')
     p.append(sticky(560, 46, -4, "#fff3a3", ["🎬 I make YouTube", "videos about AI tools"], 1.0))
-    p.append(sticky(780, 70, 5, "#ffd1dc", ["🎙 I host a podcast", "with founders"], 1.3))
+    p.append(sticky(780, 70, 5, "#ffd1dc", ["📚 I create courses", "on Claude &amp; coding"], 1.3))
     p.append(sticky(590, 160, 2, "#cdeafe", ["🎓 BS Physics,", "COMSATS '26"], 1.6))
     p.append("</svg>\n")
     return "".join(p)

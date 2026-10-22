@@ -25,7 +25,6 @@ const ali = {
   doing: [
     "Building AI products end to end — agents, RAG, MCP tools",
     "Leading a content team & sponsored campaigns with AI brands",
-    "Hosting a podcast with Pakistan's founders and tech leaders",
   ],
   taught: ["15-hr Claude course", "15-hr vibe-coding course", "90+ lesson Claude Code curriculum"],
   stack: ["TypeScript", "Next.js", "Node.js", "Python", "Supabase", "LangChain", "n8n"],
