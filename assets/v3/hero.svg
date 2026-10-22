@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="Hi, I'm Ali — I build things with AI and teach people how to build them too.">
+<defs><clipPath id="pclip"><rect width="1000" height="460" rx="18"/></clipPath></defs>
+<rect width="1000" height="460" rx="18" fill="#fbf7ef"/><g clip-path="url(#pclip)"><line x1="0" y1="56" x2="1000" y2="56" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="88" x2="1000" y2="88" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="120" x2="1000" y2="120" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="152" x2="1000" y2="152" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="184" x2="1000" y2="184" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="216" x2="1000" y2="216" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="248" x2="1000" y2="248" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="280" x2="1000" y2="280" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="312" x2="1000" y2="312" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="344" x2="1000" y2="344" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="376" x2="1000" y2="376" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="408" x2="1000" y2="408" stroke="#dfe7f1" stroke-width="1"/><line x1="0" y1="440" x2="1000" y2="440" stroke="#dfe7f1" stroke-width="1"/><line x1="44" y1="0" x2="44" y2="460" stroke="#f3b6b6" stroke-width="1.5"/></g><rect x="0.5" y="0.5" width="999" height="459" rx="18" fill="none" stroke="#e7dccb"/>
+<text x="72" y="118" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="58" fill="#2b2a33">Hi, I'm Ali <tspan>👋</tspan></text>
+<path d="M74,138 C160,128 260,146 360,134" fill="none" stroke="#e8743b" stroke-width="5" stroke-linecap="round" stroke-dasharray="300" stroke-dashoffset="300"><animate attributeName="stroke-dashoffset" from="300" to="0" begin="0.3s" dur="0.9s" fill="freeze"/></path>
+<text x="74" y="192" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="23" fill="#2b2a33">I build things with AI —</text>
+<text x="74" y="224" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="23" fill="#2b2a33">and teach people how to build them too.</text>
+<text x="74" y="276" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="17" fill="#5f5a6b">Technical Lead at <tspan font-weight="700">Aaghaz AI</tspan> · Lahore, Pakistan</text>
+<text x="74" y="306" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="17" fill="#5f5a6b">Full-stack developer · AI engineer · teacher</text>
+<!-- open to work stamp -->
+<g transform="translate(74,350) rotate(-4)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.3s" fill="freeze"/>
+<rect width="250" height="54" rx="8" fill="none" stroke="#2e8b57" stroke-width="3"/>
+<rect x="6" y="6" width="238" height="42" rx="5" fill="none" stroke="#2e8b57" stroke-width="1.2"/>
+<text x="125" y="35" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="17" font-weight="700" letter-spacing="2" fill="#2e8b57">OPEN TO NEW WORK</text></g>
+<g transform="translate(560,300)" fill="none" stroke="#2b2a33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10,0 L150,-2 L152,92 L8,94 Z" stroke-dasharray="480" stroke-dashoffset="480"><animate attributeName="stroke-dashoffset" from="480" to="0" begin="0.6s" dur="1.0s" fill="freeze"/></path>
+<path d="M-14,98 L176,96 L186,112 L-24,114 Z" stroke-dasharray="420" stroke-dashoffset="420"><animate attributeName="stroke-dashoffset" from="420" to="0" begin="1.4s" dur="0.8s" fill="freeze"/></path>
+<path d="M32,30 l14,12 l-14,12 M58,56 l30,0" stroke="#e8743b" stroke-dasharray="90" stroke-dashoffset="90"><animate attributeName="stroke-dashoffset" from="90" to="0" begin="2.0s" dur="0.5s" fill="freeze"/></path>
+</g>
+<g transform="translate(790,330)" fill="none" stroke="#2b2a33" stroke-width="3" stroke-linecap="round">
+<path d="M0,0 L4,74 Q6,84 18,84 L56,84 Q68,84 70,74 L74,0 Z" fill="#f6d6c0" stroke-dasharray="260" stroke-dashoffset="260"><animate attributeName="stroke-dashoffset" from="260" to="0" begin="0.9s" dur="0.9s" fill="freeze"/></path>
+<path d="M74,16 Q100,18 98,40 Q96,60 72,58" stroke-dasharray="90" stroke-dashoffset="90"><animate attributeName="stroke-dashoffset" from="90" to="0" begin="1.6s" dur="0.5s" fill="freeze"/></path>
+<path d="M22,-12 q-8,-14 0,-28 q8,-14 0,-28" stroke="#9a9aa5" stroke-width="2.5" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/></path>
+<path d="M46,-12 q-8,-14 0,-28 q8,-14 0,-28" stroke="#9a9aa5" stroke-width="2.5" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0,-3;0,-9;0,-3" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></path>
+</g>
+<g transform="translate(560,46) rotate(-4)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+<rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
+<rect width="210" height="96" fill="#fff3a3"/>
+<path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
+<circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎬 I make YouTube</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">videos about AI tools</text></g><g transform="translate(780,70) rotate(5)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.4s" fill="freeze"/>
+<rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
+<rect width="210" height="96" fill="#ffd1dc"/>
+<path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
+<circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎙 I host a podcast</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">with founders</text></g><g transform="translate(590,160) rotate(2)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+<rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
+<rect width="210" height="96" fill="#cdeafe"/>
+<path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
+<circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎓 BS Physics,</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">COMSATS '26</text></g></svg>
