@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="340" viewBox="0 0 320 340" role="img" aria-label="Thunder — my AI video studio">
-<g transform="rotate(-3 160 170)">
+<g transform="rotate(-3 160 170)"><g><animateTransform attributeName="transform" type="rotate" values="0 160 31;0.9 160 31;0 160 31;-0.9 160 31;0 160 31" dur="7s" repeatCount="indefinite"/>
 <rect x="46" y="38" width="236" height="276" fill="#000" opacity="0.10" transform="translate(5,7)"/>
 <rect x="40" y="32" width="240" height="276" fill="#fffdf8" stroke="#e9e2d6"/>
-<g transform="translate(52,44)"><rect width="216" height="170" fill="#ffe8a3"/><g transform="translate(-12,0)"><path d="M136,22 L92,92 L122,92 L104,150 L158,72 L126,72 L146,22 Z" fill="#ffcc33" stroke="#2b2a33" stroke-width="3.5" stroke-linejoin="round"/></g></g>
+<g transform="translate(52,44)"><rect width="216" height="170" fill="#ffe8a3"/><g transform="translate(-12,0)"><g><path d="M136,22 L92,92 L122,92 L104,150 L158,72 L126,72 L146,22 Z" fill="#ffcc33" stroke="#2b2a33" stroke-width="3.5" stroke-linejoin="round"><animate attributeName="fill" values="#ffcc33;#ffcc33;#fff3b0;#ffcc33;#ffcc33;#fff3b0;#ffcc33" keyTimes="0;0.6;0.63;0.66;0.7;0.73;1" dur="4s" repeatCount="indefinite"/></path>
+<g fill="#e8743b"><path d="M60,40 l4,10 l10,4 l-10,4 l-4,10 l-4,-10 l-10,-4 l10,-4 Z" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.6;1;0.6" dur="2.6s" additive="sum" repeatCount="indefinite"/></path>
+<path d="M176,110 l3,7 l7,3 l-7,3 l-3,7 l-3,-7 l-7,-3 l7,-3 Z" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.6s" begin="1.3s" repeatCount="indefinite"/></path></g></g></g></g>
 <text x="160" y="250" text-anchor="middle" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="25" fill="#2b2a33">Thunder</text>
 <text x="160" y="278" text-anchor="middle" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="16" fill="#6b6576">my AI video studio</text>
 <rect x="122" y="18" width="76" height="26" fill="#f3e3a6" opacity="0.85" transform="rotate(-3 160 31)"/>
-</g>
+</g></g>
 <text x="160" y="332" text-anchor="middle" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="15" fill="#e8743b">try it live →</text>
 </svg>

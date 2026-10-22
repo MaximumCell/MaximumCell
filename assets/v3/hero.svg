@@ -15,9 +15,25 @@
 <g transform="translate(560,300)" fill="none" stroke="#2b2a33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
 <path d="M10,0 L150,-2 L152,92 L8,94 Z" stroke-dasharray="480" stroke-dashoffset="480"><animate attributeName="stroke-dashoffset" from="480" to="0" begin="0.6s" dur="1.0s" fill="freeze"/></path>
 <path d="M-14,98 L176,96 L186,112 L-24,114 Z" stroke-dasharray="420" stroke-dashoffset="420"><animate attributeName="stroke-dashoffset" from="420" to="0" begin="1.4s" dur="0.8s" fill="freeze"/></path>
-<path d="M32,30 l14,12 l-14,12 M58,56 l30,0" stroke="#e8743b" stroke-dasharray="90" stroke-dashoffset="90"><animate attributeName="stroke-dashoffset" from="90" to="0" begin="2.0s" dur="0.5s" fill="freeze"/></path>
+<rect x="14" y="4" width="132" height="84" rx="3" fill="#ffd9a8" stroke="none" opacity="0"><animate attributeName="opacity" values="0;0.18;0.06;0.18" keyTimes="0;0.2;0.6;1" dur="4s" begin="2.2s" repeatCount="indefinite"/></rect>
+<path d="M26,22 l10,8 l-10,8" stroke="#e8743b" stroke-dasharray="30" stroke-dashoffset="30"><animate attributeName="stroke-dashoffset" from="30" to="0" begin="2.0s" dur="0.4s" fill="freeze"/></path>
+<g stroke-width="3.5" opacity="0"><animate attributeName="opacity" to="1" begin="2.3s" dur="0.1s" fill="freeze"/>
+<line x1="44" y1="30" x2="44" y2="30" stroke="#2b2a33"><animate attributeName="x2" values="44;44;104;104;44" keyTimes="0;0.05;0.25;0.92;1" dur="6s" begin="2.3s" repeatCount="indefinite"/></line>
+<line x1="30" y1="50" x2="30" y2="50" stroke="#e8743b"><animate attributeName="x2" values="30;30;30;84;84;30" keyTimes="0;0.25;0.3;0.48;0.92;1" dur="6s" begin="2.3s" repeatCount="indefinite"/></line>
+<line x1="30" y1="66" x2="30" y2="66" stroke="#7aa2f7"><animate attributeName="x2" values="30;30;30;118;118;30" keyTimes="0;0.48;0.52;0.75;0.92;1" dur="6s" begin="2.3s" repeatCount="indefinite"/></line>
+<rect x="30" y="74" width="7" height="12" fill="#2b2a33" stroke="none"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
-<g transform="translate(790,330)" fill="none" stroke="#2b2a33" stroke-width="3" stroke-linecap="round">
+</g>
+<!-- little Claude buddy sitting on the laptop -->
+<g transform="translate(752,358) scale(1.3)" opacity="0"><animate attributeName="opacity" to="1" begin="2.6s" dur="0.4s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="2.4s" repeatCount="indefinite"/>
+<rect x="6" y="2" width="44" height="28" rx="3" fill="#d97757" stroke="#2b2a33" stroke-width="2.5"/>
+<g><animateTransform attributeName="transform" type="rotate" values="0 50 14;0 50 14;-35 50 14;0 50 14;-35 50 14;0 50 14;0 50 14" keyTimes="0;0.7;0.76;0.82;0.88;0.94;1" dur="5s" repeatCount="indefinite"/><rect x="48" y="10" width="9" height="8" fill="#d97757" stroke="#2b2a33" stroke-width="2.5"/></g>
+<rect x="-1" y="10" width="9" height="8" fill="#d97757" stroke="#2b2a33" stroke-width="2.5"/>
+<g fill="#2b2a33"><rect x="17" y="10" width="5" height="8"><animate attributeName="height" values="8;8;1;8;8" keyTimes="0;0.9;0.94;0.98;1" dur="4s" repeatCount="indefinite"/></rect><rect x="34" y="10" width="5" height="8"><animate attributeName="height" values="8;8;1;8;8" keyTimes="0;0.9;0.94;0.98;1" dur="4s" repeatCount="indefinite"/></rect></g>
+<g fill="#d97757" stroke="#2b2a33" stroke-width="2.5"><rect x="10" y="29" width="5" height="9"/><rect x="20" y="29" width="5" height="9"/><rect x="31" y="29" width="5" height="9"/><rect x="41" y="29" width="5" height="9"/></g>
+</g></g>
+<g transform="translate(855,330)" fill="none" stroke="#2b2a33" stroke-width="3" stroke-linecap="round">
 <path d="M0,0 L4,74 Q6,84 18,84 L56,84 Q68,84 70,74 L74,0 Z" fill="#f6d6c0" stroke-dasharray="260" stroke-dashoffset="260"><animate attributeName="stroke-dashoffset" from="260" to="0" begin="0.9s" dur="0.9s" fill="freeze"/></path>
 <path d="M74,16 Q100,18 98,40 Q96,60 72,58" stroke-dasharray="90" stroke-dashoffset="90"><animate attributeName="stroke-dashoffset" from="90" to="0" begin="1.6s" dur="0.5s" fill="freeze"/></path>
 <path d="M22,-12 q-8,-14 0,-28 q8,-14 0,-28" stroke="#9a9aa5" stroke-width="2.5" opacity="0.7"><animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/></path>
@@ -25,20 +41,23 @@
 </g>
 <g transform="translate(560,46) rotate(-4)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="rotate" values="0 105.0 10;1.2 105.0 10;0 105.0 10;-1.2 105.0 10;0 105.0 10" dur="7.0s" repeatCount="indefinite"/>
 <rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
 <rect width="210" height="96" fill="#fff3a3"/>
 <path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
 <circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
-<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎬 I make YouTube</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">videos about AI tools</text></g><g transform="translate(780,70) rotate(5)" opacity="0">
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎬 I make YouTube</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">videos about AI tools</text></g></g><g transform="translate(780,70) rotate(5)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.4s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="rotate" values="0 105.0 10;1.2 105.0 10;0 105.0 10;-1.2 105.0 10;0 105.0 10" dur="7.3s" repeatCount="indefinite"/>
 <rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
 <rect width="210" height="96" fill="#ffd1dc"/>
 <path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
 <circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
-<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">📚 I create courses</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">on Claude &amp; coding</text></g><g transform="translate(590,160) rotate(2)" opacity="0">
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">📚 I create courses</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">on Claude &amp; coding</text></g></g><g transform="translate(590,160) rotate(2)" opacity="0">
 <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="rotate" values="0 105.0 10;1.2 105.0 10;0 105.0 10;-1.2 105.0 10;0 105.0 10" dur="7.6s" repeatCount="indefinite"/>
 <rect x="4" y="6" width="210" height="96" fill="#000" opacity="0.08"/>
 <rect width="210" height="96" fill="#cdeafe"/>
 <path d="M184,96 L210,70 L210,96 Z" fill="#000" opacity="0.06"/>
 <circle cx="105.0" cy="10" r="6" fill="#d9534f"/><circle cx="103.0" cy="8" r="2" fill="#fff" opacity="0.7"/>
-<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎓 BS Physics,</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">COMSATS '26</text></g></svg>
+<text x="18" y="40" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">🎓 BS Physics,</text><text x="18" y="66" font-family="'Bradley Hand', 'Segoe Print', 'Comic Neue', 'Comic Sans MS', 'Chalkboard SE', cursive" font-size="19" fill="#2b2a33">COMSATS '26</text></g></g></svg>
