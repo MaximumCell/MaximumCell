@@ -156,10 +156,6 @@ Chat with your PDFs: chunking, embeddings and vector search with streaming answe
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaximumCell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximumCell/MaximumCell/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximumCell/MaximumCell/output/github-snake.svg" />
